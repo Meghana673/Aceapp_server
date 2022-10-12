@@ -1,22 +1,24 @@
 {
     "posts": [
       {
-        "id": 1,
+       
         "firstName": "alice",
         "lastName": "andrew",
         "email": "alice@gmail.com",
         "password": "alice@123",
         "fatherNmae": "Andrew",
-        "admissionNumber": 1
+        "admissionNumber": 1,
+        "id": 1
       },
       {
-        "id": 2,
+       
         "firstName": "Jane",
         "lastName": "S",
         "email": "jane@gmail.com",
         "password": "jane@123",
         "fatherNmae": "Jake",
-        "admissionNumber": 2
+        "admissionNumber": 2,
+        "id": 2
       }
     ],
     
