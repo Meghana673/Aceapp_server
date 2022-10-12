@@ -5,7 +5,7 @@
       "lastName": "S",
       "email": "ana@gmail.com",
       "password": "Ana@123",
-      "fatherNmae": "John",
+      "parentname": "John",
       "admissionNumber": 111,
       "id": 1
     },
@@ -14,7 +14,7 @@
       "lastName": "andrew",
       "email": "alice@gmail.com",
       "password": "alice@123",
-      "fatherNmae": "Andrew",
+      "parentname": "Andrew",
       "admissionNumber": 211,
       "id": 2
     },
@@ -23,7 +23,7 @@
       "lastName": "S",
       "email": "jane@gmail.com",
       "password": "jane@123",
-      "fatherNmae": "Jake",
+      "parentname": "Jake",
       "admissionNumber": 124,
       "id": 3
     }
