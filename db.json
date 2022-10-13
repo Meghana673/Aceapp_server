@@ -1,34 +1,24 @@
 {
   "posts": [
     {
-      "firstName": "Ana",
-      "lastName": "S",
-      "email": "ana@gmail.com",
-      "password": "Ana@123",
-      "confirmpassword":"Ana@123",
-      "parentname": "John",
-      "admissionNumber": 111,
-      "id": 1
+      "StudentStudentfirstname":"Alena",
+      "studentstudentlastname":"andrew",
+      "email":"alena@gmail.com",
+      "password":"alena@123",
+      "confirmpassword":"alena@123",
+      "parentname":"Andrew",
+      "admissionNumber":"121",
+      "id":1
     },
     {
-      "firstName": "alice",
-      "lastName": "andrew",
-      "email": "alice@gmail.com",
-      "password": "alice@123",
+      "StudentStudentfirstname":"alice",
+      "studentstudentlastname":"s",
+      "email":"allice@gmail.com",
+      "password":"alice@123",
       "confirmpassword":"alice@123",
-      "parentname": "Andrew",
-      "admissionNumber": 211,
-      "id": 2
-    },
-    {
-      "firstName": "Jane",
-      "lastName": "S",
-      "email": "jane@gmail.com",
-      "password": "jane@123",
-      "confirmpassword":"jane@123",
-      "parentname": "Jake",
-      "admissionNumber": 124,
-      "id": 3
+      "parentname":"Jake",
+      "admissionNumber":"212",
+      "id":2
     }
   ],
   "Products": [
