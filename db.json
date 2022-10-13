@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "StudentStudentfirstname":"Alena",
-      "studentstudentlastname":"andrew",
+      "Studentfirstname":"Alena",
+      "studentlastname":"andrew",
       "email":"alena@gmail.com",
       "password":"alena@123",
       "confirmpassword":"alena@123",
@@ -11,8 +11,8 @@
       "id":1
     },
     {
-      "StudentStudentfirstname":"alice",
-      "studentstudentlastname":"s",
+      "Studentfirstname":"alice",
+      "studentlastname":"s",
       "email":"allice@gmail.com",
       "password":"alice@123",
       "confirmpassword":"alice@123",
